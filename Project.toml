@@ -10,6 +10,9 @@ ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [compat]
+ColorTypes = "0.12"
+ImageFeatures = "0.5"
+ImageTransformations = "0.10"
 julia = "1.10"
 
 [extras]
