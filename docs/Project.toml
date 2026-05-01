@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Patterns = "5e75eed5-1655-436d-a245-40c52d356396"
+
+[compat]
+Documenter = "1.17"
